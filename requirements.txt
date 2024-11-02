@@ -1,7 +1,0 @@
-matplotlib==3.8.0
-pandas==2.2.3
-plotly==5.22.0
-Requests==2.32.3
-seaborn==0.13.2
-streamlit==1.39.0
-streamlit_option_menu==0.4.0
